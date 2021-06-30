@@ -12,7 +12,7 @@
             "author" => "Queen",
             "year" => "22-05-1989",
             "genre" => "Rock",
-            "cover" => "https://lh3.googleusercontent.com/proxy/kuREb95mPHKDOKX50l0F2iCvE7hLMFGFFbm1IJ6ArJy6RlhRJfPX7JB5OO0U_sOIcgHezUmmORXButHXs7e1JBTRchxd5aaCnq22ggS0VDA57opxMA3hMvg2sQ"
+            "cover" => "https://img.discogs.com/eUcO3_KCfcblPz8ZjRixWW3PxVg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13823538-1561920902-1305.jpeg.jpg"
         ],
         [
             "title" => "Nursery Crime",
@@ -26,7 +26,7 @@
             "author" => "Lady Gaga",
             "year" => "29-05-2020",
             "genre" => "Pop",
-            "cover" => "https://www.radiolombardia.it/wp-content/uploads/2020/04/Lady-Gaga_cover-album_Chromatica_bassa.jpg"
+            "cover" => "https://images-na.ssl-images-amazon.com/images/I/81Le2R1yAgL._AC_SX466_.jpg"
         ],
         [
             "title" => "Bad",
@@ -47,7 +47,7 @@
             "author" => "Iron Maiden",
             "year" => "14-10-1985",
             "genre" => "Metal",
-            "cover" => "https://lh3.googleusercontent.com/proxy/LQXACk1hiL3NhfecGLXh840qsS5TC-tpu7947-1yB95rxDfnwzrPo5oY4NMD-By8KklzafeaUl7NAUr-FWP_aFKp6V57t2vw7H6N7CoGGYxPVr9IZyZmChIlz474TMi3r5IAITRE"
+            "cover" => "https://images-na.ssl-images-amazon.com/images/I/81Yt-yx1C3L._AC_SX522_.jpg"
         ],
         [
             "title" => "Lover",
@@ -61,13 +61,13 @@
             "author" => "Johnny Cash",
             "year" => "25-03-2014",
             "genre" => "Country",
-            "cover" => "https://lh3.googleusercontent.com/proxy/n4eeR-ZhJ7QBCmlenhKA5KfioYUuvX4gSfJ1BNh5kCcoDWgVJ71c9_BKTQUYU1RET5Ig_VTmlA2hy0G7d1vX2fil4k117ZwIOXeGsuFE_gL2_BMpyYDruHs8E8OQy0YRyRFGLFs8BJqz6WX1H6E"
+            "cover" => "https://images-na.ssl-images-amazon.com/images/I/81I-VPHl-jL._AC_SL1500_.jpg"
         ],
         [
             "title" => "Slowhand",
             "author" => "Eric Clapton",
             "year" => "25-11-1977",
             "genre" => "Blues",
-            "cover" => "https://lh3.googleusercontent.com/proxy/BgE37KHhe7E1a5ht5uLnVkqRokLScKN3_3gFjbuRpbrpipUay5Moxug_zIcv7Dv0GhAeB6wWwTxtvHHBcKlQySOkGqV_xxMrDerTafPcAN6a6OhvuXtout5sWVcaZDc"
+            "cover" => "https://images-na.ssl-images-amazon.com/images/I/61dN06OOZhL._AC_SX466_.jpg"
         ]
     ];
