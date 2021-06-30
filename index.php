@@ -7,9 +7,7 @@
     Una volta completata la parte PHP dell'esercizio, se volete, potete creare un layout (HTML/CSS) diverso da quello definito qualche giorno fa per l'analogo esercizio fatto con i componenti Vue.
     */
 
-    require __DIR__ . '/database/database.php';
-
-    var_dump($discs);
+    require __DIR__ . '/partials/database/database.php';
     
 ?>
 
@@ -19,6 +17,8 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- FAVICON -->
+        <link rel="shortcut icon" href="" type="image/x-icon">
         <!-- FONTS GOOGLE -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -30,6 +30,14 @@
     </head>
 
     <body>
-        
+        <!-- HEADER -->
+        <?php include __DIR__ . '/partials/template/header.php'; ?>
+        <!-- /HEADER -->
+
+        <!-- MAIN -->
+        <main>
+            
+        </main>
+        <!-- /MAIN -->
     </body>
 </html>
