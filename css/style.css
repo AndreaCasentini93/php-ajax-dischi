@@ -31,6 +31,10 @@ header {
 
 header img {
     width: 50px;
+    transition: filter .3s;
+}
+header img:hover {
+    filter: brightness(150%);
 }
 
 /* MAIN */
@@ -46,23 +50,56 @@ main {
 }
 
 #discs .disc {
-    width: calc((100% / 5) - 40px);
+    width: calc((100% / 5) - 20px);
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
     text-align: center;
+    cursor: pointer;
+    transition: transform .3s;
+}
+#discs .disc:hover {
+    transform: scale(1.08);
+}
+
+#discs .disc .image_box {
+    position: relative;
+}
+
+#discs .disc i  {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
     color: #FFFFFF;
+    text-shadow: 1px 1px 5px #000000;
+    opacity: 0;
+    transition: opacity .3s;
+    z-index: 1;
+}
+#discs .disc:hover i  {
+    opacity: 1;
 }
 
 #discs .disc img {
+    display: block;
     max-width: 100%;
     border-radius: 5px;
     margin-bottom: 10px;
+    transition: opacity .3s;
 }
+#discs .disc:hover img {
+    opacity: .4;
+}
+
 #discs .disc h2 {
     font-size: 18px;
     margin-bottom: 5px;
+    color: #FFFFFF;
 }
+
 #discs .disc h4 {
     font-size: 16px;
     font-weight: 400;
+    color: #808080;
 }
