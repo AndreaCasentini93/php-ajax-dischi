@@ -5,7 +5,7 @@
             "author" => "Queen",
             "year" => "31-10-1985",
             "genre" => "Rock",
-            "cover" => "https://lh3.googleusercontent.com/proxy/XnXODVDxPamzkdbhvc5e2KFsD9KMXmn6JeyQFUA5s84Ht1dti3S7a6lNIYuEN5DvstDMmrUxGnBQZcx3J87VzrwTooA8iECLiPxphKiDa5LQqNwQDSXcR2RXsKJFLGjpngr87dc6yKIyyjq_CAaz8bj4R5Ko"
+            "cover" => "https://images-na.ssl-images-amazon.com/images/I/91Ph%2BuTyyxL._AC_SL1500_.jpg"
         ],
         [
             "title" => "The Miracle",

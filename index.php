@@ -7,7 +7,7 @@
     Una volta completata la parte PHP dell'esercizio, se volete, potete creare un layout (HTML/CSS) diverso da quello definito qualche giorno fa per l'analogo esercizio fatto con i componenti Vue.
     */
 
-    require __DIR__ . '/partials/database/database.php';
+    require_once __DIR__ . '/partials/database/database.php';
     
 ?>
 
@@ -31,12 +31,14 @@
 
     <body>
         <!-- HEADER -->
-        <?php include __DIR__ . '/partials/template/header.php'; ?>
+        <?php include_once __DIR__ . '/partials/template/header.php'; ?>
         <!-- /HEADER -->
 
         <!-- MAIN -->
         <main>
-            
+            <section id="discs" class="container">
+                <?php include_once __DIR__ . '/partials/template/discs.php'; ?>
+            </section>
         </main>
         <!-- /MAIN -->
     </body>

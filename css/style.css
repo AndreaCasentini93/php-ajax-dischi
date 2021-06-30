@@ -1,5 +1,48 @@
+/* COMMONS */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 70%;
+    height: 100%;
+    padding: 40px 0;
+    margin: 0 auto;
+}
+
+/* HEADER */
+header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    padding: 0 20px;
+    background-color: #000000;
+}
+
+header img {
+    width: 50px;
+}
+
+/* MAIN */
+#discs {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#discs .disc {
+    width: calc((100% / 5) - 40px);
+    padding: 20px;
+    margin: 20px;
+    background-color: red;
+}
+
+#discs .disc img {
+    max-width: 100%;
 }

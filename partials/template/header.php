@@ -1,3 +1,5 @@
 <header>
-    <h2>Prova</h2>
+    <div>
+        <img src="<?= 'partials/images/spotify.png' ?>" alt="logo">
+    </div>
 </header>
