@@ -7,5 +7,8 @@
     Una volta completata la parte PHP dell'esercizio, se volete, potete creare un layout (HTML/CSS) diverso da quello definito qualche giorno fa per l'analogo esercizio fatto con i componenti Vue.
     */
 
+    require __DIR__ . '/database/database.php';
+
+    var_dump($discs)
     
 ?>
