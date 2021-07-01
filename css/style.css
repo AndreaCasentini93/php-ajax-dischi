@@ -96,6 +96,7 @@ main {
     border-radius: 5px;
     margin-bottom: 20px;
     transition: opacity .3s;
+    box-shadow: 1px 1px 3px #000000;
 }
 #discs .disc:hover img {
     opacity: .4;
@@ -105,10 +106,12 @@ main {
     font-size: 18px;
     margin-bottom: 5px;
     color: #FFFFFF;
+    text-shadow: 1px 1px 3px #000000;
 }
 
 #discs .disc h4 {
     font-size: 16px;
     font-weight: 400;
     color: #808080;
+    text-shadow: 1px 1px 3px #000000;
 }
