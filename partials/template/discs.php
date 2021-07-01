@@ -1,5 +1,5 @@
 <!-- REQUIRE DATABASE -->
-<?php require_once __DIR__ . '/../database/database.php'; ?>
+<?php require_once __DIR__ . '/../../db/database.php'; ?>
 
 <!-- CARDS -->
 <?php foreach ($discs as $disc) { ?>
