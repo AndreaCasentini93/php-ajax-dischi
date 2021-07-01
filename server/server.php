@@ -1,5 +1,5 @@
 <?php
-    require __DIR__ . '/../partials/database/database.php';
+    require __DIR__ . '/../db/database.php';
 
     header('Content-Type: application/json');
 
